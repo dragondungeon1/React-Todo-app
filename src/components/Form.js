@@ -35,8 +35,6 @@ const Form  = ({inputText, setInputText, todos, setTodos, setStatus}) => {
         </select>
       </div>
     </form>
-
-    
     );
 }
 

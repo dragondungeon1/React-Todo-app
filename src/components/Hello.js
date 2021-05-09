@@ -2,8 +2,6 @@ import React from 'react';
 
 const Hello = () => {
 
-
-
     return(
     <div className="container">
         <div className="productCard">
